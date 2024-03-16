@@ -1,9 +1,12 @@
 *{margin: 0;
 padding: 0;
 box-sizing: border-box;}
-body{
+body{ background-image: url("./assets/money.jpeg" );
+
   background-color:black;   
 }
+
+
 
 .logo{width:90px;
 display: block;
@@ -66,3 +69,4 @@ b{margin-left:1px;}
 
 .divi{ margin-left:25px;}
 .divis{margin-left: 25px;}
+
